@@ -1,2 +1,7 @@
-*.iml
-out/
+DESIGN_TEMPLATE.md
+
+README.md
+
+test/README.md
+
+.idea/
